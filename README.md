@@ -12,6 +12,10 @@
 
 Modified from Scotch.io's auth tutorial
 
+## Optimizations
+
+The hope is to fully flesh out a dashboard for the user to track donations via the app and amount of money saved by using Communal. The current donation tracking graph asks the user to inout the value of their donation - we hope to grab that data from the "item post" going forward and automatically update said graph and dashboard for a better user experience.
+
 # Welcome to the COMMUNAL App! Our app is used for community members to share resources across their communities.
 
 See a live version here: https://communalbymacklinengineering.herokuapp.com/index
